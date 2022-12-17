@@ -1,0 +1,149 @@
+{
+  "author": "RustedTurnip",
+  "dark": true,
+  "name": "night-blossom",
+  "colors": {
+    "peach": "#ffbab8",
+    "orangePeach": "#ffd5bd",
+    "greyOrange": "#b8aa98",
+    "orange": "#ffa14a",
+    "dustyPink": "#bfa6b6",
+    "lightPink": "#ffebf7",
+    "pink": "#ff99ff",
+    "darkPink": "#eb73bf",
+    "darkPurple": "#00041f",
+    "darkPurpleSelected": "#22224A",
+    "pastelPurple": "#A99CFF",
+    "lightPurple": "#ffb3ff",
+    "lightBlue": "#6ADCEA",
+    "blue": "#47a3ff"
+  },
+  "editorScheme": "/theme/night-blossom.xml",
+  "ui": {
+    "*": {
+      "background": "darkPurple"
+    },
+    "Borders": {
+      "color": "darkPurpleSelected",
+      "ContrastBorderColor": "darkPurpleSelected"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "darkPurpleSelected",
+      "underlinedTabForeground": "lightPurple",
+      "underlineColor": "lightPurple",
+      "underlineHeight": 2,
+      "borderColor": "darkPurple",
+      "background": "darkPurple"
+    },
+    "Panel": {
+      "foreground": "lightPurple",
+      "background": "darkPurple"
+    },
+    "Tree": {
+      "background": "darkPurple",
+      "foreground": "lightPink",
+      "selectionBackground": "darkPurpleSelected",
+      "selectionForeground": "lightPurple",
+      "selectionInactiveBackground": "darkPurpleSelected"
+    },
+    "ActionButton": {
+      "hoverBackground": "darkPurpleSelected"
+    },
+    "Menu": {
+      "background": "darkPurple",
+      "foreground": "lightPink",
+      "borderColor": "darkPurpleSelected",
+      "separatorColor": "darkPurpleSelected",
+      "selectionBackground": "darkPurpleSelected",
+      "disabledForeground": "dustyPink"
+    },
+    "PopupMenuSeparator": {
+      "height": 13,
+      "stripeIndent": 6,
+      "stripeWidth": 1
+    },
+    "MenuBar": {
+      "borderColor": "darkPurple"
+    },
+    "MenuItem": {
+      "background": "darkPurple",
+      "foreground": "lightPink",
+      "selectionBackground": "#094770"
+    },
+    "NavBar": {
+      "borderColor": "darkPurple"
+    },
+    "CompletionPopup": {
+      "foreground": "lightPink",
+      "background": "darkPurple"
+    },
+    "Popup": {
+      "background": "darkPurple",
+      "separatorForeground": "darkPurpleSelected"
+    },
+    "PopupMenu": {
+      "background": "darkPurple",
+      "selectionBackground": "darkPurpleSelected",
+      "foreground": "lightPink",
+      "selectionForeground": "lightPurple"
+    },
+    "Button": {
+      "shadowColor": "darkPurpleSelected",
+      "startBorderColor": "lightPurple",
+      "endBorderColor": "lightPurple",
+      "startBackground": "darkPurple",
+      "endBackground": "darkPurple",
+      "foreground": "lightPurple",
+      "focusedBorderColor": "lightPink",
+      "arc": 0,
+      "default": {
+        "foreground": "darkPurple",
+        "startBackground": "lightPurple",
+        "endBackground": "lightPurple",
+        "startBorderColor": "lightPurple",
+        "endBorderColor": "lightPurple",
+        "shadowColor": "darkPurpleSelected",
+        "focusedBorderColor": "lightPink"
+      }
+    },
+    "StatusBar": {
+      "borderColor": "darkPurple"
+    },
+    "ToolWindow": {
+      "HeaderTab": {
+        "underlineColor": "lightPurple"
+      },
+      "Header": {
+        "borderColor": "darkPurpleSelected",
+        "background": "darkPurple",
+        "inactiveBackground": "darkPurple"
+      }
+    },
+    "List": {
+      "foreground": "lightPink",
+      "selectionForeground": "lightPurple",
+      "selectionInactiveForeground": "lightPink",
+      "hoverBackground": "darkPurpleSelected",
+      "selectionBackground": "darkPurpleSelected"
+    },
+    "ToolTip": {
+      "borderColor": "darkPurpleSelected",
+      "foreground": "lightPink",
+      "infoForeground": "dustyPink",
+      "background": "darkPurple"
+    },
+    "ComboBox": {
+      "foreground": "lightPink",
+      "background": "darkPurple",
+      "selectionForeground": "lightPurple",
+      "selectionBackground": "darkPurpleSelected",
+      "ArrowButton": {
+        "background": "darkPurple",
+        "iconColor": "lightPink"
+      }
+    },
+    "ComboPopup": {
+      "border": "darkPurpleSelected"
+    }
+  }
+}
