@@ -1,7 +1,7 @@
 <scheme name="night-blossom" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-12-21T08:28:01</property>
-    <property name="modified">2022-12-21T08:28:06</property>
+    <property name="created">2022-12-21T11:49:39</property>
+    <property name="modified">2022-12-21T11:49:52</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="6adcea" />
@@ -287,7 +287,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6b8b8" />
+        <option name="FOREGROUND" value="fffaa0" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -331,9 +331,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffd5bd" />
+        <option name="BACKGROUND" value="a87b00" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="754200" />
+        <option name="FOREGROUND" value="fffaa0" />
       </value>
     </option>
     <option name="CSS.COMMENT">
