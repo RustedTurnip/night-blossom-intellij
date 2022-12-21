@@ -1,8 +1,7 @@
 <scheme name="night-blossom" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-12-17T21:57:13</property>
-    <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-17T21:57:17</property>
+    <property name="created">2022-12-21T08:28:01</property>
+    <property name="modified">2022-12-21T08:28:06</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="6adcea" />
