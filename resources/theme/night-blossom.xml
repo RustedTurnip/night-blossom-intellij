@@ -865,6 +865,11 @@
         <option name="FOREGROUND" value="6adcea" />
       </value>
     </option>
+    <option name="GO_SHADOWING_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="58a8ab" />
+      </value>
+    </option>
     <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
     <option name="GQL_ID">
       <value>
