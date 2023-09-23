@@ -1,7 +1,7 @@
 <scheme name="night-blossom" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2022-12-21T11:49:39</property>
-    <property name="modified">2022-12-21T11:49:52</property>
+    <property name="modified">2023-09-23T10:46:03</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="6adcea" />
